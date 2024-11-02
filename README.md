@@ -52,5 +52,5 @@ El proyecto consiste en desarrollar un sistema  para un curso llamado NeoCode, s
 - Roboto Slab
 - Quantica
 - Raleway
-=======
+
 
